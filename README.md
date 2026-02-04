@@ -8,6 +8,7 @@ Soybean (R3-R4 stage: pod formation)
 Potato (Tuber initiation to bulking)
 
 The analysis spans 74 years (1951-2024) across 13 Central Minnesota counties, combining historical climate data with field observations from 2023-2024.
+
 Key Findings
 
 Precipitation rarely matched evapotranspiration (ET) demands during water-sensitive growth stages
@@ -79,6 +80,5 @@ Bryan Runck - GEMS Informatics Center, University of Minnesota
 
 Contact
 For questions about this research, contact:
+Samikshya Subedi: subed036@umn.edu
 
-Bryan Runck: runck014@umn.edu
-Vasudha Sharma: vasudha@umn.edu
