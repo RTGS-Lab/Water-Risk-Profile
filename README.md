@@ -11,8 +11,6 @@ The analysis spans 74 years (1951-2024) across 13 Central Minnesota counties, co
 
 Key Findings
 
-Precipitation rarely matched evapotranspiration (ET) demands during water-sensitive growth stages
-Rainfall met only 56% of corn water needs, 63% of soybean needs, and 53% of potato needs during critical periods
 High year-to-year variability means crops face unpredictable water stress
 No clear long-term trend of increasing or decreasing water risk was found
 Bottom line: Irrigation remains essential for stable crop production in Central Minnesota, just as it has been historically
